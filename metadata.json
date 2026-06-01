@@ -1,0 +1,6 @@
+{
+  "name": "Minu's Magic Glasses",
+  "description": "An interactive, kid-friendly educational web game for children ages 5-9 to discover computer vision concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
